@@ -355,8 +355,8 @@
 
 		&.Smooth-Progress-Bar-Snippet {
 
-			.playback-bar,
-			.x-progressBar-foregroundWrapper {
+			.main-nowPlayingBar-center .playback-bar,
+			.main-nowPlayingBar-center .x-progressBar-foregroundWrapper {
 
 				>div,
 				~div {
